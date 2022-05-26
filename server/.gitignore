@@ -1,0 +1,6 @@
+#上传文件夹
+upload
+#本地测试
+_test
+*.log
+*.exe
